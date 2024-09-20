@@ -10,4 +10,3 @@ int main() {
     printf("Aire du disque = %.2f cm2", aireDisque);
     return 0;
 }
-aireCarreLongueurHauteur
